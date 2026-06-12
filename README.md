@@ -204,7 +204,7 @@ agentic-llm-compression-lab/
 ## 3. Results Page
 
 
-<img width="1207" height="491" alt="image" src="https://github.com/user-attachments/assets/81776862-66f0-4092-a23d-899a7dbcb479" />
+<img width="809" height="287" alt="image" src="https://github.com/user-attachments/assets/66f733b1-7b97-4a7f-aff6-e56be1aa5c65" />
 
 
 ---
